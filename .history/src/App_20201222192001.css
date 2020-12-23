@@ -1,0 +1,28 @@
+/* ----------------header---------------- */
+.topbar {
+  background-color: #232F3E;
+  padding: 2px 48px 0px ;
+  text-align: center;
+}
+
+.topbar > img {
+  width: 110px;
+}
+
+/* ----------main content----------------------------- */
+.mainContainer {
+  margin-top: 32px;
+  padding: 0px 12px;
+
+  width: 100%;
+  display:flex;
+  align-items: center;
+}
+
+.productPreview {
+  width: 50%;
+}
+
+.productPreview >img {
+  width: 100%;
+}

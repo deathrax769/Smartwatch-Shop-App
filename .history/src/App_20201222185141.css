@@ -1,0 +1,8 @@
+.topbar{
+  background-color: #282c34;
+  
+}
+
+.topbar > img {
+  width: 100px;
+}

@@ -1,0 +1,10 @@
+.topbar{
+  background-color: #232F3E;
+  padding: 5px 48px 5px ;
+  text-align: center;
+}
+
+.topbar > img {
+  width: 100px;
+
+}
