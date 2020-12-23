@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Screenshot of the app
+
+![](Images/Smartwatch-shop-app-screenshot.png) 
+
 ## Available Scripts
 
 In the project directory, you can run:
